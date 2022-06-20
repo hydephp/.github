@@ -2,6 +2,8 @@
 
 Create static websites with the tools you already know and love with HydePHP.
 
+_Simplicity first. Power when you need it. Quality always._
+
 <!--
 
 **Here are some ideas to get you started:**

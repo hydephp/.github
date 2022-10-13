@@ -4,6 +4,10 @@ Create static websites with the tools you already know and love with HydePHP.
 
 _Simplicity first. Power when you need it. Quality always._
 
+--- 
+
+To get started, or just to learn more, visit the [HydePHP.com](https://hydephp.com) website, and/or take a look at the [documentation](https://hydephp.com/docs).
+
 <!--
 
 **Here are some ideas to get you started:**

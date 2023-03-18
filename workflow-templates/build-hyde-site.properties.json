@@ -1,0 +1,11 @@
+{
+  "name": "Build HydePHP Site Workflow",
+  "description": "HydePHP site builder starter workflow.",
+  "iconName": "octicon repo",
+  "categories": [
+      "HydePHP"
+  ],
+  "filePatterns": [
+      "hyde"
+  ]
+}

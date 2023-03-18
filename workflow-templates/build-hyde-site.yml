@@ -2,7 +2,7 @@ name: Build HydePHP Site
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ $default-branch ]
 
 permissions:
   contents: write
